@@ -1,0 +1,6 @@
+[submodule "OpenWildlife-ls-ML-backend"]
+	path = OpenWildlife-ls-ML-backend
+	url = https://github.com/echonax07/OpenWildlife-ls-ML-backend.git
+[submodule "OpenWildlife-ls-sdk"]
+	path = OpenWildlife-ls-sdk
+	url = https://github.com/echonax07/OpenWildlife-ls-sdk.git
