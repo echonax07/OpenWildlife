@@ -7,3 +7,9 @@
 	url = https://github.com/echonax07/OpenWildlife-ls-sdk.git
 	branch = main
 
+[submodule "OpenWildlife-frontend"]
+	path = OpenWildlife-frontend
+	url = https://github.com/echonax07/OpenWildlife-frontend.git
+[submodule "OpenWildlife-ml-model"]
+	path = OpenWildlife-ml-model
+	url = https://github.com/echonax07/OpenWildlife-ml-model.git
